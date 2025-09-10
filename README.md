@@ -29,8 +29,11 @@ Suggest whether the food is healthy or not.
 📂 Project Structure
 nutrition-app/
 │── app.py              # Main Streamlit application
+
 │── requirements.txt    # Required dependencies
+
 │── .env                # Store your Google API Key (not pushed to GitHub)
+
 │── README.md           # Project documentation
 
 🛠️ Installation & Setup
